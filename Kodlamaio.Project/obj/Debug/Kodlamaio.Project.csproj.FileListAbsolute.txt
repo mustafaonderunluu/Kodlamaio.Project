@@ -1,0 +1,2 @@
+C:\Users\musta\source\repos\Kodlamaio.Project\Kodlamaio.Project\obj\Debug\Kodlamaio.Project.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Kodlamaio.Project\Kodlamaio.Project\obj\Debug\Kodlamaio.Project.csproj.CoreCompileInputs.cache
